@@ -17,7 +17,3 @@ if __name__ == '__main__':
     print_line11(LANG, ids_formated)
     main_routine(LANG, ids_formated, PATH)
     print(f"[+] ARIGATÔ.")
-
-
-
-
