@@ -1,6 +1,6 @@
 # SHPmapia
 
-This simple command line tool allows you to extract json data from wikimapia.org and converts it to shapefile so you can useyour gis software.
+This simple command line tool allows you to extract json data from wikimapia.org and converts it to shapefile ready for gis software usage.
 
 ## Installing
 
