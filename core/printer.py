@@ -32,6 +32,7 @@ def print_banner():
 
     """)
 
+
 def print_line1(lang, id):
     if lang == 'pt':
         print(f'[+] {id}: Buscando informações do id.')
@@ -110,4 +111,3 @@ def print_line11(lang, ids_formated):
         print(f"[+] Ids selecionados: {ids_formated}")
     if lang == 'en':
         print(f"[+] Selected ids: {ids_formated}")
-
