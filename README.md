@@ -1,4 +1,4 @@
-# SHPmapia
+# ShapeMapia
 
 This simple command line tool allows you to extract json data from wikimapia.org and converts it to shapefile ready for gis software usage.
 
@@ -13,3 +13,6 @@ pip install -r requirements.txt
 ```bash
 python3 shpmapia.py
 ```
+## Screenshot
+
+![screenshot](screenshots/shpmapia.png)
